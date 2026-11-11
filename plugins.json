@@ -2,15 +2,15 @@
   {
     "name": "Latin Flix 2",
     "internalName": "LatinFlix2",
-    "version": 1,
+    "version": 2,
     "apiVersion": 1,
-    "status": 3,
+    "status": 1,
     "language": "es",
     "authors": ["raiderking2022-wq"],
     "tvTypes": ["Movie", "TvSeries"],
-    "description": "SoloLatino experimental. Reproducción LATINO/DoodStream no verificada.",
+    "description": "SoloLatino experimental. Instalación, catálogo y reproducción pendientes de verificar en Cloudstream 4.9.1.",
     "repositoryUrl": "https://github.com/raiderking2022-wq/latin-flix-2-repo",
-    "url": "https://raw.githubusercontent.com/raiderking2022-wq/latin-flix-2-repo/10ed4ad6a547face309319d39458e4a19cce4f41/LatinFlix2.cs3",
+    "url": "https://raw.githubusercontent.com/raiderking2022-wq/latin-flix-2-repo/6ccfe459636db97c35c3c4757cf0eb80b88c99c8/LatinFlix2-v2.cs3",
     "fileSize": 18846
   }
 ]
