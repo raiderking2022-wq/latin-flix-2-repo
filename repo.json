@@ -1,0 +1,8 @@
+{
+  "name": "Latin Flix 2",
+  "description": "Plugin experimental. Reproducción pendiente de verificar.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/raiderking2022-wq/latin-flix-2-repo/main/plugins.json"
+  ]
+}
