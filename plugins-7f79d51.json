@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Latin Flix 2 - prueba 7f79d51",
+    "internalName": "LatinFlix2",
+    "version": 2,
+    "apiVersion": 1,
+    "status": 1,
+    "language": "es",
+    "authors": ["raiderking2022-wq"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "description": "Prueba 7f79d51. Latino e iframes intermedios. Reproducción no verificada.",
+    "repositoryUrl": "https://github.com/raiderking2022-wq/latin-flix-2-repo",
+    "url": "https://raw.githubusercontent.com/raiderking2022-wq/latin-flix-2-repo/36b84ec364fb6be1b51f3e0f08ec11fcbef31d96/LatinFlix2-v2.cs3",
+    "fileSize": 35117,
+    "fileHash": "sha256-8ce76f03ad7556054a0dc6858190231ea6c229b0271f36ffe7cf4f5b2e8d4ec2"
+  }
+]
