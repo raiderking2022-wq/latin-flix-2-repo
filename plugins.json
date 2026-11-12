@@ -8,9 +8,9 @@
     "language": "es",
     "authors": ["raiderking2022-wq"],
     "tvTypes": ["Movie", "TvSeries"],
-    "description": "SoloLatino experimental. Instalación, catálogo y reproducción pendientes de verificar en Cloudstream 4.9.1.",
+    "description": "Diagnóstico 722af40. Reproducción no verificada.",
     "repositoryUrl": "https://github.com/raiderking2022-wq/latin-flix-2-repo",
-    "url": "https://raw.githubusercontent.com/raiderking2022-wq/latin-flix-2-repo/6ccfe459636db97c35c3c4757cf0eb80b88c99c8/LatinFlix2-v2.cs3",
-    "fileSize": 18846
+    "url": "https://raw.githubusercontent.com/raiderking2022-wq/latin-flix-2-repo/main/LatinFlix2-v2.cs3?build=722af40",
+    "fileSize": 23171
   }
 ]

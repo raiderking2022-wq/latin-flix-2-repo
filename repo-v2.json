@@ -1,8 +1,8 @@
 {
   "name": "Latin Flix 2 - índice v2",
-  "description": "Índice fijado a versión 2 para diagnóstico. Reproducción no verificada.",
+  "description": "Diagnóstico 722af40. Reproducción no verificada.",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/raiderking2022-wq/latin-flix-2-repo/8df701bd406b39bf5af8e06f22a967010c0f697d/plugins.json"
+    "https://raw.githubusercontent.com/raiderking2022-wq/latin-flix-2-repo/main/plugins.json?build=722af40"
   ]
 }
