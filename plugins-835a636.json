@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Latin Flix 2 - D5 835a636",
+    "internalName": "LatinFlix2",
+    "version": 2,
+    "apiVersion": 1,
+    "status": 1,
+    "language": "es",
+    "authors": ["raiderking2022-wq"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "description": "Buscar diagnostico: ficha LF2-D3 con bloque INSPECCIÓN HTML D5. Reproducción no verificada.",
+    "repositoryUrl": "https://github.com/raiderking2022-wq/latin-flix-2-repo",
+    "url": "https://raw.githubusercontent.com/raiderking2022-wq/latin-flix-2-repo/47352c42e0ff4191dad8e8a215bb5f799b01f67a/LatinFlix2-v2.cs3",
+    "fileSize": 57531,
+    "fileHash": "sha256-48de7d109d3aa842a4db568b0132475fa607ca4668575ab896ed595a2e502d48"
+  }
+]
