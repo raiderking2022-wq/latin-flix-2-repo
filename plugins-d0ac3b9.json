@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Latin Flix 2 - diagnóstico visible d0ac3b9",
+    "internalName": "LatinFlix2",
+    "version": 2,
+    "apiVersion": 1,
+    "status": 1,
+    "language": "es",
+    "authors": ["raiderking2022-wq"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "description": "Diagnóstico visible d0ac3b9. Buscar diagnostico y abrir sinopsis. Reproducción no verificada.",
+    "repositoryUrl": "https://github.com/raiderking2022-wq/latin-flix-2-repo",
+    "url": "https://raw.githubusercontent.com/raiderking2022-wq/latin-flix-2-repo/4bc25b6de7372460296149c25be3e19ff3f4dabf/LatinFlix2-v2.cs3",
+    "fileSize": 46124,
+    "fileHash": "sha256-3d5b6ac606844c9d14667b79a25d9c39a73ddd836d91adea58bd81168415c740"
+  }
+]
