@@ -1,0 +1,12 @@
+{
+  "commit": "722af4087a0aebc861dba3154a87a1e21f40e1c5",
+  "run_id": "43139824874",
+  "manifest": {
+    "requiresResources": false,
+    "version": 2,
+    "pluginClassName": "latinflix2.LatinFlix2Plugin",
+    "name": "LatinFlix2"
+  },
+  "fileSize": 23171,
+  "sha256": "c8a97bdde5b703c3d3b28fed4d1ea3d01f3ec39faf4ec47c436b2b5a52b5ec0f"
+}
