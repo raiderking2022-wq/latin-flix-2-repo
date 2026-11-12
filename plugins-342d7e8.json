@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Latin Flix 2 - LF2-D2 342d7e8",
+    "internalName": "LatinFlix2",
+    "version": 2,
+    "apiVersion": 1,
+    "status": 1,
+    "language": "es",
+    "authors": ["raiderking2022-wq"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "description": "Buscar diagnostico y abrir la ficha LF2-D2 para probar extracción sin reproducir.",
+    "repositoryUrl": "https://github.com/raiderking2022-wq/latin-flix-2-repo",
+    "url": "https://raw.githubusercontent.com/raiderking2022-wq/latin-flix-2-repo/b03027740135a6bb5abe2420dee4dbe1e5d1c523/LatinFlix2-v2.cs3",
+    "fileSize": 51296,
+    "fileHash": "sha256-be99da54aa82f770752f623608f9b479a5473bfe294cdbbcf931ce93472b50cb"
+  }
+]
