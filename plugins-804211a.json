@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Latin Flix 2 - prueba 804211a",
+    "internalName": "LatinFlix2",
+    "version": 2,
+    "apiVersion": 1,
+    "status": 1,
+    "language": "es",
+    "authors": ["raiderking2022-wq"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "description": "Extractor Xupalace 804211a con diagnóstico visible. Reproducción no verificada.",
+    "repositoryUrl": "https://github.com/raiderking2022-wq/latin-flix-2-repo",
+    "url": "https://raw.githubusercontent.com/raiderking2022-wq/latin-flix-2-repo/e7be09868ed924fd009c0fc7db558ebe9db2836d/LatinFlix2-v2.cs3",
+    "fileSize": 48510,
+    "fileHash": "sha256-96c2908865966a47ff9cf6f1ad5d00ca2314a363a31f74639fde2a6592a8d048"
+  }
+]
