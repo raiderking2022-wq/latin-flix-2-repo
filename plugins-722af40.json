@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Latin Flix 2 - diagnóstico 722af40",
+    "internalName": "LatinFlix2",
+    "version": 2,
+    "apiVersion": 1,
+    "status": 1,
+    "language": "es",
+    "authors": ["raiderking2022-wq"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "description": "Diagnóstico 722af40. Paquete de 23171 bytes. Reproducción no verificada.",
+    "repositoryUrl": "https://github.com/raiderking2022-wq/latin-flix-2-repo",
+    "url": "https://raw.githubusercontent.com/raiderking2022-wq/latin-flix-2-repo/d84c2aea9690f11a3f1b2fff8c2532ea14209087/LatinFlix2-v2.cs3",
+    "fileSize": 23171,
+    "fileHash": "sha256-c8a97bdde5b703c3d3b28fed4d1ea3d01f3ec39faf4ec47c436b2b5a52b5ec0f"
+  }
+]
