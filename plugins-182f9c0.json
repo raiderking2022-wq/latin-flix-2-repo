@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Latin Flix 2 - LF2-D3 182f9c0",
+    "internalName": "LatinFlix2",
+    "version": 2,
+    "apiVersion": 1,
+    "status": 1,
+    "language": "es",
+    "authors": ["raiderking2022-wq"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "description": "Buscar diagnostico y abrir LF2-D3 para consultar el trazado Xupalace. Reproducción no verificada.",
+    "repositoryUrl": "https://github.com/raiderking2022-wq/latin-flix-2-repo",
+    "url": "https://raw.githubusercontent.com/raiderking2022-wq/latin-flix-2-repo/55e8b7c1409c8533417b28cb285e66b21800ae41/LatinFlix2-v2.cs3",
+    "fileSize": 53332,
+    "fileHash": "sha256-fa3b379f39388b203172b5829e755bf5097e88cb18c688448f923b1590d513e7"
+  }
+]
